@@ -1,13 +1,13 @@
 
 # Ex.No: 2 	Evaluation of 2024 Prompting Tools Across Diverse AI Platforms: ChatGPT, Claude, Bard, Cohere Command, and Meta 
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:17-03-2025                                                                     
+### REGISTER NUMBER : 212222060307
  
-### Aim:
+# Aim:
 To compare the performance, user experience, and response quality of different AI platforms (ChatGPT, Claude, Bard, Cohere Command, and Meta) within a specific use case, such as summarizing text or answering technical questions. Generate a Prompt based output using different Prompting tools of 2024.
-### AI Tools required:
-
-### Explanation:
+# AI Tools required:
+Deep seek
+# Explanation:
 Define the Use Case:
 Select a specific task for evaluation across platforms (e.g., summarizing a document, answering a technical question, or generating a creative story / Code).
 Ensure the use case is applicable to all platforms and will allow for comparison across response quality, accuracy, and depth.
@@ -28,9 +28,84 @@ Deliverables:
 A comparison table outlining the performance of each platform (ChatGPT, Claude, Bard, Cohere Command, and Meta) based on accuracy, clarity, depth, and relevance of responses.
 A final report summarizing the findings of the experiment, including recommendations on the most suitable AI platform for different use cases based on performance and user 
 
-### Output:
+# Output:
+Use Case:
+Task: Answering technical questions about machine learning concepts.
+Sample Prompts:
+
+“Explain the transformer architecture’s self-attention mechanism in simple terms.”
+
+“Write a Python function to calculate the Fibonacci sequence using recursion.”
+
+“What are the ethical risks of deploying large language models in healthcare?”
+
+# Comparison Table
+
+![image](https://github.com/user-attachments/assets/4806f75b-a87e-48e0-a095-64cd230cbd87)
+
+# Detailed Analysis
+
+# Accuracy:
+
+ChatGPT provided the most technically precise answers (e.g., correctly explaining multi-head attention).
+
+Bard occasionally oversimplified concepts, leading to minor inaccuracies.
+
+# Clarity:
+
+Claude delivered exceptionally structured explanations with bullet points and analogies.
+
+Cohere Command used more technical jargon, reducing accessibility for non-experts.
+
+# Depth:
+
+Claude and ChatGPT included real-world examples (e.g., transformer applications in BERT).
+
+Meta AI provided shorter answers with less contextualization.
+
+# Relevance:
+
+ChatGPT and Cohere Command stayed strictly on-topic.
+
+Bard occasionally added tangential details (e.g., mentioning RNNs in a transformer explanation).
+
+# Response Time:
+
+Bard was fastest, but sacrificed depth for speed.
+
+Meta AI lagged due to computational overhead.
+
+# User Experience:
+
+ChatGPT and Claude offered intuitive interfaces with easy prompt editing.
+
+Cohere Command required more precise prompting to avoid generic outputs.
+
+# Sample Prompt Output
+![image](https://github.com/user-attachments/assets/37cc0594-05d4-4ad8-a9f3-cf49e7fefb6b)
+
+
+# ChatGPT:
+“Self-attention allows the model to weigh the importance of different words in a sentence. For example, in ‘The cat sat on the mat,’ it identifies ‘cat’ and ‘mat’ as key elements by assigning higher attention scores to them.”
+
+# Claude:
+“Imagine reading a sentence and highlighting the most important words. Self-attention does this computationally, letting the model focus on relevant parts (like ‘cat’ and ‘mat’) to understand context.”
+
+# Bard:
+“Self-attention is like a spotlight that helps the model focus on specific words to generate accurate predictions.”
+
 
 ### Conclusion: 
+Best Overall: ChatGPT (GPT-4) excelled in accuracy, speed, and user experience, making it ideal for technical tasks requiring precision.
 
+Depth & Clarity: Claude is recommended for educational or explanatory use cases due to its structured, analogy-driven responses.
 
-# Result : The Prompt for the above problem statement executed successfully.
+Speed vs. Depth: Bard suits quick, high-level summaries but lags in technical depth.
+
+Niche Use: Cohere Command performs well in domain-specific tasks (e.g., healthcare or legal QA) with tailored prompts.
+
+Open-Source Option: Meta AI (Llama 3) is viable for developers prioritizing customization over speed.
+
+# Result 
+
+The Prompt for the above problem statement executed successfully.
